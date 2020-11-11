@@ -1,6 +1,11 @@
 ## TT-Pledge-Project-App
 # App / UI for TT Pledge Project
 
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
 
 Authors: Spencer DeMera, Justin Galvez, Melanie Mach, Ashley Kuewa<br/>
     Author emails:<br/>
