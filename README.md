@@ -4,12 +4,10 @@
 
 Authors: Spencer DeMera, Justin Galvez, Melanie Mach, Ashley Kuewa<br/>
     Author emails:<br/>
-    <p class="tab">
-    spencer.demera@csu.fullerton.edu<br/>
-    justing@csu.fullerton.edu<br/>
-    Melaniemach@csu.fullerton.edu<br/>
-    ashleykuewa@csu.fullerton.edu<br/>
-    <p/>
+    <p class="tab">spencer.demera@csu.fullerton.edu<p/><br/>
+    <p class="tab">justing@csu.fullerton.edu<p/><br/>
+    <p class="tab">Melaniemach@csu.fullerton.edu<p/><br/>
+    <p class="tab">ashleykuewa@csu.fullerton.edu<p/><br/>
                 
    Purpose of this game: The purpose of this game is to create a 2D Platformer game in the Unity Game Engine for the purpose of<br/>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pledging for CSU Fullerton's Theta Tau Chapter (Phi Epsilon). 
