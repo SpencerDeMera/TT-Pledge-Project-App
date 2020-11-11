@@ -4,7 +4,7 @@
 
 Authors: Spencer DeMera, Justin Galvez, Melanie Mach, Ashley Kuewa<br/>
     Author emails:<br/>
-    <p>
+    <p class="tab">
     spencer.demera@csu.fullerton.edu<br/>
     justing@csu.fullerton.edu<br/>
     Melaniemach@csu.fullerton.edu<br/>
