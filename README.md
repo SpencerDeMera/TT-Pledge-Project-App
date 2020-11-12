@@ -27,3 +27,4 @@ Sources:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brackeys Unity Game Development Youtube Series (Old version): https://www.youtube.com/watch?v=9h-z0AyG42k&list=PLPV2KyIb3jR4_IYZY2V0G3IUYcx1zZkJe<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft .NET and C# Documentation: https://docs.microsoft.com/en-us/dotnet/?view=net-5.0<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unity Answers Forum: https://answers.unity.com/index.html?_ga=2.51485481.1091430655.1604987218-985068841.1598998968<br/>
+Player Respawn - 2D Game Development With Unity: https://www.youtube.com/watch?v=Qn8tJhnY3eI
