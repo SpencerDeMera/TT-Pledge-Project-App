@@ -22,18 +22,12 @@ public class PlayerMovement : MonoBehaviour {
         } // if
     } // Update
 
-    private void OnTriggerEnter2D(Collider2D other) {
-        if (other.gameObject.CompareTag("Coins")) {
-            Destroy(other.gameObject);
-        } // if
-    } // OnTriggerEnter function
-
     public void OnLanding () {
         animator.SetBool("IsJump", false);
-    } // OnLanding function
+    } // OnLanding
 
     void FixedUpdate() {
         controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
         jump = false;
-    } // FixedUpdate function
-} // PlayerMovement class
+    } // FixedUpdate
+}
