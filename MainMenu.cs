@@ -1,4 +1,7 @@
-﻿using System.Collections;
+// MainMenu File
+//	Author(s): Justin Galvez
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
