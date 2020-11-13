@@ -1,4 +1,7 @@
-﻿using System.Collections;
+// Player Movement File
+//	Author(s): Spencer DeMera, Justin Galvez, Melanie Mach
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -22,12 +25,18 @@ public class PlayerMovement : MonoBehaviour {
         } // if
     } // Update
 
+    private void OnTriggerEnter2D(Collider2D other) {
+        if (other.gameObject.CompareTag("Coins")) {
+            Destroy(other.gameObject);
+        } // if
+    } // OnTriggerEnter function
+
     public void OnLanding () {
         animator.SetBool("IsJump", false);
-    } // OnLanding
+    } // OnLanding function
 
     void FixedUpdate() {
         controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
         jump = false;
-    } // FixedUpdate
-}
+    } // FixedUpdate function
+} // PlayerMovement class
