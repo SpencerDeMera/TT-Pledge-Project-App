@@ -1,4 +1,7 @@
-﻿using System.Collections;
+// Score Manager File
+//	Author(s): Spencer DeMera
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
