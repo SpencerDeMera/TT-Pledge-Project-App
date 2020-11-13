@@ -1,4 +1,7 @@
-﻿using System.Collections;
+// EndMenu File
+//  Author(s): Spencer DeMera
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
