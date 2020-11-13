@@ -1,6 +1,10 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+// Character Controller2D File 
+//	Reference Brackeys 2D Movement video on Youtube
+//	Author: Brackeys
+
 public class CharacterController2D : MonoBehaviour
 {
 	[SerializeField] private float m_JumpForce = 400f;							// Amount of force added when the player jumps.
