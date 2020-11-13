@@ -1,4 +1,7 @@
-﻿using System.Collections;
+// Coin File
+//	Author(s): Spencer DeMera
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
