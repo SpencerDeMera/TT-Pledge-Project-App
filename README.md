@@ -15,7 +15,7 @@ Purpose of this game: The purpose of this game is to create a 2D Platformer game
  
  ---
 Development status.  This game is in complete as a beta product.  It is on track to fulfill its purpose of creating a simple conversion app for class.
-*Disclaimer* Make sure to download all files and folders in the "Finished Game" folder or else the game will not run
+*Disclaimer*: Make sure to download all files and folders in the "Finished Game" folder or else the game will not run
 
 ---
 Run Environment: This program was written and built in the Windows 10 x86 environment in Unity Game Engine<br/>
